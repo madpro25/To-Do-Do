@@ -1,0 +1,24 @@
+{
+  "name": "to-do-do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madpro25/To-Do-Do.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madpro25/To-Do-Do/issues"
+  },
+  "homepage": "https://github.com/madpro25/To-Do-Do#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
